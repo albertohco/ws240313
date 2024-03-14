@@ -1,1 +1,1 @@
-# ws240313
+# Workshop de ETL com python / duckdb / Postgres 13/03/24
